@@ -1,0 +1,22 @@
+[
+  {"id": "conv-01", "kind": "barge_in", "cancel_after_chunks": 2, "text": "Sure, I can pull up that purchase order and check whether all three pallets cleared receiving yesterday afternoon."},
+  {"id": "conv-02", "kind": "barge_in", "cancel_after_chunks": 2, "text": "Hold on, let me compare the invoice freight line against the original contract cap before routing it for approval."},
+  {"id": "conv-03", "kind": "barge_in", "cancel_after_chunks": 3, "text": "Your appointment is confirmed for Thursday at nine thirty Pacific, and I can send a calendar invite to both emails."},
+  {"id": "conv-04", "kind": "barge_in", "cancel_after_chunks": 2, "text": "If you want to switch from the monthly plan to annual billing, the prorated credit applies automatically today."},
+  {"id": "conv-05", "kind": "barge_in", "cancel_after_chunks": 3, "text": "I found four open support tickets linked to that warehouse account, starting with the barcode scanner timeout."},
+  {"id": "conv-06", "kind": "barge_in", "cancel_after_chunks": 2, "text": "Before we kick off the deployment, want me to run the migration dry-run against staging and report any locks?"},
+  {"id": "conv-07", "kind": "barge_in", "cancel_after_chunks": 2, "text": "The flight into San Francisco lands at six fifteen, which leaves roughly forty minutes to grab your bag and call a car."},
+  {"id": "conv-08", "kind": "barge_in", "cancel_after_chunks": 3, "text": "Let me read back the shipping address on file so we make sure the replacement part goes to the right dock."},
+  {"id": "conv-09", "kind": "barge_in", "cancel_after_chunks": 2, "text": "That API key already hit its daily rate limit, so I can rotate to the backup token or pause the queue until midnight."},
+  {"id": "conv-10", "kind": "barge_in", "cancel_after_chunks": 2, "text": "Got it, I will cancel the first summary and jump straight to the three numbers that changed since last Tuesday."},
+  {"id": "narr-01", "kind": "narration", "cancel_after_chunks": 0, "text": "Every frame counts when viewers decide whether to swipe away in the first two seconds."},
+  {"id": "narr-02", "kind": "narration", "cancel_after_chunks": 0, "text": "A single silent audio glitch or dropped subtitle is enough to tank average watch duration."},
+  {"id": "narr-03", "kind": "narration", "cancel_after_chunks": 0, "text": "Running speech synthesis locally on a workstation GPU gives zero network jitter and predictable cost."},
+  {"id": "narr-04", "kind": "narration", "cancel_after_chunks": 0, "text": "Cloud WebSockets win the moment you need instant context continuations across dozens of live callers."},
+  {"id": "narr-05", "kind": "narration", "cancel_after_chunks": 0, "text": "The real test is never average latency; it is p95 tail latency when a user interrupts mid-sentence."},
+  {"id": "narr-06", "kind": "narration", "cancel_after_chunks": 0, "text": "Aligning cut points to Whisper word timestamps makes short-form edits feel tight without touching a timeline."},
+  {"id": "narr-07", "kind": "narration", "cancel_after_chunks": 0, "text": "One subtle SDK regression can silently drop playback speed controls if you upgrade without checking wire payloads."},
+  {"id": "narr-08", "kind": "narration", "cancel_after_chunks": 0, "text": "When VRAM is shared between video renders and voice models, a lightweight resource guard prevents OOM crashes."},
+  {"id": "narr-09", "kind": "narration", "cancel_after_chunks": 0, "text": "Measuring time to first audio byte separates perceived responsiveness from raw throughput numbers."},
+  {"id": "narr-10", "kind": "narration", "cancel_after_chunks": 0, "text": "Ship the benchmark first, look at the tail numbers, and pick the stack that holds up under real traffic."}
+]
